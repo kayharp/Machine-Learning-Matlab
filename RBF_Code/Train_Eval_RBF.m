@@ -1,4 +1,6 @@
 %Train and Evaluate the RBF Network 
+%Author: Kristina Harper
+%08/04/2018
 
 
 %Load data to train model (previously separated into input and output
