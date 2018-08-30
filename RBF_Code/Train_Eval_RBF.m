@@ -1,6 +1,5 @@
 %Train and Evaluate the RBF Network 
-%Kristina Harper
-%Cand No 178621
+
 
 %Load data to train model (previously separated into input and output
 %files)
