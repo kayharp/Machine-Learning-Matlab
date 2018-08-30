@@ -1,7 +1,5 @@
 %Model for Input Test Data
-%Candidate Number: 178621
-%Kristina Harper
-%08/04/2018
+
 
 %Load test data
 load('testdata.csv');
