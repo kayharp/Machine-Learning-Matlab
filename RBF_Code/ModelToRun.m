@@ -1,5 +1,6 @@
 %Model for Input Test Data
-
+%Author: Kristina Harper
+%08/04/2018
 
 %Load test data
 load('testdata.csv');
